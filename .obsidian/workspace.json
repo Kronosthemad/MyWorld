@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ebefc75a27edcecd",
+        "id": "cb078c40059fbb90",
         "type": "tabs",
         "children": [
           {
-            "id": "e585dc29319f45c0",
+            "id": "26bc867417146536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs/Trades/Miner.md",
+                "file": "Character/Dorian-NPC/Glen LongSlong.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Miner"
-            }
-          },
-          {
-            "id": "30910e8d13715b79",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "title": "Glen LongSlong"
             }
           }
         ]
@@ -229,47 +210,49 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "e585dc29319f45c0",
+  "active": "26bc867417146536",
   "lastOpenFiles": [
-    "Country's/Dorian Territory/Dorian pits.md",
+    "Consumable/Drinks/Demonic wine.md",
+    "Consumable/Drinks/Nasty wet Whisky.md",
     "Country's/Dorian Territory/Dorian Territory.md",
     "Country's/Dorian Territory/Calion/Calion.md",
-    "Country's/Dorian Territory/Calion/Silver Spire.md",
-    "Character/Dorian-NPC/Dorian King.md",
-    "Cultures/The Dorians.md",
-    "Cultures/The Revers.md",
-    "Jobs/Trades/Miner.md",
-    "Jobs/Trades/Silversmith.md",
-    "Jobs/Trades/Blacksmith.md",
-    "Jobs/Jobs.md",
-    "Country's/Independant/Long Blow Monastery.md",
-    "Character/Dorian-NPC/Dorian-NPC.md",
     "Character/Rever-NPC/Rever-NPC.md",
-    "Character/Rever-NPC/Rever King.md",
-    "Country's/Rever Territory/Rever Territory.md",
-    "Jobs/Government/King.md",
-    "Country's/Rever Territory/Baclet/Baclet.md",
-    "Jobs/Trades/Trades.md",
-    "Country's/Rever Territory/Black Mine.md",
-    "Governments/Governments.md",
-    "Cultures/Cultures.md",
+    "Consumable/Consumable.md",
+    "Country's/Independant/Independant.md",
+    "Country's/Dorian Territory/Calion/Silver Spire.md",
+    "Consumable/Drinks/Drinks.md",
+    "Consumable/Drinks/Noble Cocktail.md",
+    "Consumable/Drinks",
+    "Consumable",
+    "Resources/Resources.md",
+    "harve.md",
+    "Resources/Harvested/Harvested.md",
     "Country's/Country's.md",
-    "Country's/Rever Territory/Baclet/Cracked Keep.md",
-    "Governments/The Rever Royal Court.md",
+    "Country's/Dorian Territory/Calion/Mad Man's Inn.md",
+    "Country's/Dorian Territory/Calion/Rock and Shaft.md",
+    "Country's/Dorian Territory/Calion/Glens Goods.md",
+    "Character/Dorian-NPC/Boris Rock.md",
+    "Character/Dorian-NPC/Larry Lonny.md",
+    "Character/Dorian-NPC/Harold Shaft.md",
+    "Character/Dorian-NPC/Glen LongSlong.md",
+    "Character/Dorian-NPC/Dorian-NPC.md",
+    "Jobs/Trades/ShopKeeper.md",
+    "Jobs/Trades/Trades.md",
+    "Jobs/Jobs.md",
+    "Races/Races.md",
+    "Character/Independent-NPC",
+    "Resources/Harvested",
     "Country's/Rever Territory/Baclet",
-    "Jobs/Trades/TavernKeep.md",
     "Jobs/Trades",
     "Jobs/Government",
     "Jobs",
     "Governments",
     "Cultures",
-    "Country's/Dorian Territory/Calion",
-    "Country's/Independant",
-    "Untitled.canvas",
-    "Character/Dorian-NPC",
-    "Character/Rever-NPC"
+    "Untitled.canvas"
   ]
 }

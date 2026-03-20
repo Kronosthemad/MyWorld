@@ -1,0 +1,1 @@
+The [[ShopKeeper]] of [[Glens Goods]] in the town of [[Calion]]

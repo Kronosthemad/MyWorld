@@ -1,0 +1,1 @@
+The [[Silversmith]] of [[Rock and Shaft]] in the town of [[Calion]]

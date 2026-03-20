@@ -55,6 +55,41 @@
         "a": 1,
         "rgb": 4000623
       }
+    },
+    {
+      "query": "path:Resources/Harvested  ",
+      "color": {
+        "a": 1,
+        "rgb": 11051787
+      }
+    },
+    {
+      "query": "path:Jobs/Trades  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Cultures  ",
+      "color": {
+        "a": 1,
+        "rgb": 1971477
+      }
+    },
+    {
+      "query": "path:Governments  ",
+      "color": {
+        "a": 1,
+        "rgb": 400229
+      }
+    },
+    {
+      "query": "path:Jobs/Government  ",
+      "color": {
+        "a": 1,
+        "rgb": 1206382
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +102,6 @@
   "repelStrength": 0,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.9999999999999922,
-  "close": true
+  "scale": 0.99999999999999,
+  "close": false
 }

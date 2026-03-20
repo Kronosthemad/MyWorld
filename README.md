@@ -1,1 +1,1 @@
-This is an obsidian project for a fantacy world
+This is an obsidian project for a fantasy world

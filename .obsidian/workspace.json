@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Dorian-NPC/Glen LongSlong.md",
+                "file": "Jobs/Religion/Religion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Glen LongSlong"
+              "title": "Religion"
             }
           }
         ]
@@ -187,14 +187,23 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "48a50f5d187b01b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,34 +226,35 @@
   },
   "active": "26bc867417146536",
   "lastOpenFiles": [
+    "Governments/Governments.md",
+    "Jobs/Religion/Religion.md",
+    "Character/Character.md",
+    "README.md",
+    "Character/Rever-NPC/Rever-NPC.md",
+    "Character/Independent-NPC/Independent-NPC.md",
+    "Character/Dorian-NPC/Dorian-NPC.md",
+    "Resources/Resources.md",
+    "Races/Races.md",
+    "Character/Independent-NPC/Abet.md",
+    "Country's/Independant/Independant.md",
+    "Governments/Independent.md",
+    "Jobs/Religion/Monk.md",
+    "Jobs/Jobs.md",
+    "Jobs/Religion",
+    "Character/Dorian-NPC/Boris Rock.md",
+    "Character/Dorian-NPC/Harold Shaft.md",
+    "Character/Dorian-NPC/Larry Lonny.md",
+    "Character/Dorian-NPC/Glen LongSlong.md",
+    "Character/Dorian-NPC/Dorian King.md",
     "Consumable/Drinks/Demonic wine.md",
     "Consumable/Drinks/Nasty wet Whisky.md",
     "Country's/Dorian Territory/Dorian Territory.md",
     "Country's/Dorian Territory/Calion/Calion.md",
-    "Character/Rever-NPC/Rever-NPC.md",
     "Consumable/Consumable.md",
-    "Country's/Independant/Independant.md",
     "Country's/Dorian Territory/Calion/Silver Spire.md",
     "Consumable/Drinks/Drinks.md",
-    "Consumable/Drinks/Noble Cocktail.md",
     "Consumable/Drinks",
     "Consumable",
-    "Resources/Resources.md",
-    "harve.md",
-    "Resources/Harvested/Harvested.md",
-    "Country's/Country's.md",
-    "Country's/Dorian Territory/Calion/Mad Man's Inn.md",
-    "Country's/Dorian Territory/Calion/Rock and Shaft.md",
-    "Country's/Dorian Territory/Calion/Glens Goods.md",
-    "Character/Dorian-NPC/Boris Rock.md",
-    "Character/Dorian-NPC/Larry Lonny.md",
-    "Character/Dorian-NPC/Harold Shaft.md",
-    "Character/Dorian-NPC/Glen LongSlong.md",
-    "Character/Dorian-NPC/Dorian-NPC.md",
-    "Jobs/Trades/ShopKeeper.md",
-    "Jobs/Trades/Trades.md",
-    "Jobs/Jobs.md",
-    "Races/Races.md",
     "Character/Independent-NPC",
     "Resources/Harvested",
     "Country's/Rever Territory/Baclet",
@@ -252,7 +262,6 @@
     "Jobs/Government",
     "Jobs",
     "Governments",
-    "Cultures",
     "Untitled.canvas"
   ]
 }

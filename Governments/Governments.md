@@ -9,3 +9,4 @@ type: folder_brief_live
 | -------------------------- |
 | [[The Dorian Royal Court]] |
 | [[The Rever Royal Court]]  |
+| [[Independent]]            |

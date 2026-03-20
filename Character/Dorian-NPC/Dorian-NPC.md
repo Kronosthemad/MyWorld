@@ -7,6 +7,10 @@ type: folder_brief_live
 Race  [[Dorian]]
 
 
-| People list     |     |
-| --------------- | --- |
-| [[Dorian King]] |     |
+| People list        |
+| ------------------ |
+| [[Dorian King]]    |
+| [[Boris Rock]]     |
+| [[Larry Lonny]]    |
+| [[Harold Shaft]]   |
+| [[Glen LongSlong]] |

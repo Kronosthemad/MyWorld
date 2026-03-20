@@ -9,3 +9,4 @@ type: folder_brief_live
 | -------------------- |
 | [[Dorian Territory]] |
 | [[Rever Territory]]  |
+| [[Independant]]      |

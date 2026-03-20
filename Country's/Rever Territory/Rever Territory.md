@@ -5,15 +5,14 @@ type: folder_brief_live
 ```
  
 
-| Places           |
-| ---------------- |
-| [[Cracked Keep]] |
-| [[Black Mine]]   |
-## [[Races]]
+| Places         |
+| -------------- |
+| [[Baclet]]     |
+| [[Black Mine]] |
+## Races
 [[Rever]]
-## [[Resources]]
-
 
 | Places         | Type         | Product  |
 | -------------- | ------------ | -------- |
 | [[Black Mine]] | [[Minerals]] | [[iron]] |
+| [[Black Mine]] | [[Minerals]] | [[Coal]] |

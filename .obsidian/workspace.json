@@ -11,10 +11,24 @@
             "id": "e585dc29319f45c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Jobs/Trades/Miner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Miner"
             }
           },
           {
@@ -100,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jobs/Trades/Miner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Miner"
             }
           },
           {
@@ -118,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Jobs/Trades/Miner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Miner"
             }
           },
           {
@@ -160,12 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Jobs/Trades/Miner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Miner"
             }
           },
           {
@@ -177,13 +194,26 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "74f11919b97585e6",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Jobs/Trades/Miner.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,45 +227,49 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "e585dc29319f45c0",
   "lastOpenFiles": [
-    "Country's/Dorian Territory/Silver Spire.md",
-    "Character/Rever-NPC/Rever-NPC.md",
-    "Country's/Independant/Independant.md",
-    "Country's/Independant/Long Blow Monastery.md",
-    "Country's/Dorian Territory/Dorian Territory.md",
-    "Country's/Independant",
-    "Country's/Rever Territory/Rever Territory.md",
-    "Races/Races.md",
-    "Races/Dorian.md",
-    "Resources/Minerals/Minerals.md",
-    "Character/Dorian-NPC/Dorian-NPC.md",
-    "Country's/Rever Territory/Black Mine.md",
-    "Country's/Rever Territory/Cracked Keep.md",
-    "Races/Rever.md",
     "Country's/Dorian Territory/Dorian pits.md",
-    "Character/Character.md",
-    "Untitled.canvas",
-    "Resources/Minerals/Iron.md",
-    "Character/Rever-NPC/Rever King.md",
+    "Country's/Dorian Territory/Dorian Territory.md",
+    "Country's/Dorian Territory/Calion/Calion.md",
+    "Country's/Dorian Territory/Calion/Silver Spire.md",
     "Character/Dorian-NPC/Dorian King.md",
-    "Character/Dorian-NPC",
-    "Character/Rever-NPC",
-    "Character",
-    "Resources/Minerals/Coal.md",
+    "Cultures/The Dorians.md",
+    "Cultures/The Revers.md",
+    "Jobs/Trades/Miner.md",
+    "Jobs/Trades/Silversmith.md",
+    "Jobs/Trades/Blacksmith.md",
+    "Jobs/Jobs.md",
+    "Country's/Independant/Long Blow Monastery.md",
+    "Character/Dorian-NPC/Dorian-NPC.md",
+    "Character/Rever-NPC/Rever-NPC.md",
+    "Character/Rever-NPC/Rever King.md",
+    "Country's/Rever Territory/Rever Territory.md",
+    "Jobs/Government/King.md",
+    "Country's/Rever Territory/Baclet/Baclet.md",
+    "Jobs/Trades/Trades.md",
+    "Country's/Rever Territory/Black Mine.md",
+    "Governments/Governments.md",
+    "Cultures/Cultures.md",
     "Country's/Country's.md",
-    "Country's/Rever Territory",
-    "Resources/Resources.md",
-    "Resources/Minerals/Silver.md",
-    "Resources/Minerals",
-    "Resources",
-    "Country's/Dorian Territory",
-    "Country's",
-    "Races",
-    "create a link.md",
-    "Welcome.md"
+    "Country's/Rever Territory/Baclet/Cracked Keep.md",
+    "Governments/The Rever Royal Court.md",
+    "Country's/Rever Territory/Baclet",
+    "Jobs/Trades/TavernKeep.md",
+    "Jobs/Trades",
+    "Jobs/Government",
+    "Jobs",
+    "Governments",
+    "Cultures",
+    "Country's/Dorian Territory/Calion",
+    "Country's/Independant",
+    "Untitled.canvas",
+    "Character/Dorian-NPC",
+    "Character/Rever-NPC"
   ]
 }

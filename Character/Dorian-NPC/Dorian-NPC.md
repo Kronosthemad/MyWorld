@@ -4,7 +4,7 @@
 type: folder_brief_live
 ```
  
-[[Races]]  [[Dorian]]
+Race  [[Dorian]]
 
 
 | People list     |     |

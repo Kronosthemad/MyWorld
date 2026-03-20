@@ -32,7 +32,7 @@
       "query": "path:Character/Rever-NPC  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 13330197
       }
     },
     {
@@ -40,6 +40,20 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Races  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Country's/Independant  ",
+      "color": {
+        "a": 1,
+        "rgb": 4000623
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 0,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.9999999999999938,
-  "close": false
+  "scale": 0.9999999999999922,
+  "close": true
 }

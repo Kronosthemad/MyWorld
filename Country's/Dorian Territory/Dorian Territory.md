@@ -9,18 +9,16 @@ type: folder_brief_live
 This is the northern land inhabited by [[Dorian]] 
 
 
-| Places           |
-| ---------------- |
-| [[Dorian pits]]  |
-| [[Silver Spire]] |
+| Places          |
+| --------------- |
+| [[Dorian pits]] |
+| [[Calion]]      |
 
-## [[Resources]]
 
 | From            | Type         | Product    |
 | --------------- | ------------ | ---------- |
 | [[Dorian pits]] | [[Minerals]] | [[Silver]] |
 
 
-
-## [[Races]]
+Races
 [[Dorian]]

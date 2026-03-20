@@ -1,3 +1,9 @@
+---
+Country: "[[Rever Territory]]"
+Race: "[[Rever]]"
+Government: "[[The Rever Royal Court]]"
+---
+
 # Rever-NPC Overview
  
 ```ccard

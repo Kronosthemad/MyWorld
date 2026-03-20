@@ -1,11 +1,15 @@
+---
+Country: "[[Dorian Territory]]"
+Race: "[[Dorian]]"
+Government: "[[The Dorian Royal Court]]"
+---
+
 # Dorian-NPC Overview
  
 ```ccard
 type: folder_brief_live
 ```
  
-Race  [[Dorian]]
-
 
 | People list        |
 | ------------------ |

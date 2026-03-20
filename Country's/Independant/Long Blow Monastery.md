@@ -1,3 +1,7 @@
+---
+Country: "[[Independant]]"
+Race: any
+---
 
 ## Description 
 

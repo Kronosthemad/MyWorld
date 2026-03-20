@@ -1,3 +1,9 @@
+---
+Store Type: "[[Blacksmith]]"
+Job Type: "[[Trades]]"
+Store keeper: "[[Boris Rock]]"
+---
+
 ## Description 
 The [[Blacksmith]] of [[Calion]]
 it is run by [[Boris Rock]] for the ironwork and

@@ -13,16 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Dorian-NPC/Glen LongSlong.md",
+                "file": "Item's/Equipment/Armor/Iron/Iron.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Glen LongSlong"
+              "title": "Iron"
+            }
+          },
+          {
+            "id": "45e9b809335f546e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Item's/Equipment/Armor/Iron/Iron.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Iron"
+            }
+          },
+          {
+            "id": "23479c812b178987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Item's/Equipment/Armor/Iron/Iron Boots.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Iron Boots"
+            }
+          },
+          {
+            "id": "dedf83b10b44f448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Character/Character.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,8 +270,29 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "26bc867417146536",
+  "active": "dedf83b10b44f448",
   "lastOpenFiles": [
+    "Classes/Character/Rouge.md",
+    "Classes/Character/Character.md",
+    "Classes/Character/Warrior.md",
+    "Classes/Character/Wizard.md",
+    "Classes/Classes.md",
+    "Classes/Character",
+    "Jobs/Religion/Religion.md",
+    "Item's/Equipment/Armor/Iron/Iron.md",
+    "Item's/Equipment/Armor/Iron/Iron Boots.md",
+    "Item's/Equipment/Armor/Iron/Iron Gauntlets.md",
+    "Item's/Equipment/Armor/Iron/Iron Chest plate.md",
+    "Item's/Equipment/Armor/Iron/Iron Helmet.md",
+    "Item's/Equipment/Armor/Armor.md",
+    "Item's/Equipment/Armor/Iron",
+    "Item's/Equipment/Armor/Untitled.md",
+    "Item's/Equipment/Equipment.md",
+    "Item's/Equipment/Armor",
+    "Item's/Item's.md",
+    "Item's/Equipment",
+    "Character/Character.md",
+    "Character/Dorian-NPC/Glen LongSlong.md",
     "Character/Dorian-NPC/Boris Rock.md",
     "Country's/Dorian Territory/Calion/Mad Man's Inn.md",
     "Country's/Dorian Territory/Dorian pits.md",
@@ -235,33 +302,12 @@
     "Country's/Independant/Long Blow Monastery.md",
     "Jobs/Trades/Miner.md",
     "Jobs/Trades/TavernKeep.md",
-    "Races/Races.md",
-    "Jobs/Trades/ShopKeeper.md",
-    "Jobs/Trades/Silversmith.md",
-    "Jobs/Trades/Blacksmith.md",
-    "Jobs/Government/Count.md",
-    "Jobs/Government/King.md",
-    "Classes/Social/Peasant.md",
-    "Classes/Social/Social.md",
-    "Classes/Social/Merchant.md",
-    "Classes/Social/Noble.md",
     "Classes/Social",
     "Classes",
-    "Spells/Restoration/Heal.md",
-    "Spells/Spells.md",
-    "Spells/Restoration/Restoration.md",
-    "Item's/Consumable/Drinks/Demonic wine.md",
     "Spells/Restoration",
     "Spells",
-    "Item's/Item's.md",
-    "Item's/Consumable/Consumable.md",
-    "Character/Independent-NPC/Abet.md",
     "Item's",
     "Jobs/Religion",
-    "Item's/Consumable/Drinks",
-    "Item's/Consumable",
-    "Character/Independent-NPC",
-    "Resources/Harvested",
     "Untitled.canvas"
   ]
 }

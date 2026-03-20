@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Resources/Minerals  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431394
+      }
+    },
+    {
+      "query": "path:\"Country's/Dorian Territory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701145
+      }
+    },
+    {
+      "query": "path:\"Country's/Rever Territory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "path:Character/Rever-NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Character/Dorian-NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.9,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.8609375,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.9999999999999938,
+  "close": false
+}

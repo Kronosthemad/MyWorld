@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Country's/Dorian Territory/Calion/Silver Spire.md",
+                "file": "Character/Dorian-NPC/Glen LongSlong.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Silver Spire"
+              "title": "Glen LongSlong"
             }
           }
         ]
@@ -226,8 +226,11 @@
   },
   "active": "26bc867417146536",
   "lastOpenFiles": [
-    "Country's/Dorian Territory/Calion/Rock and Shaft.md",
+    "Character/Dorian-NPC/Boris Rock.md",
     "Country's/Dorian Territory/Calion/Mad Man's Inn.md",
+    "Country's/Dorian Territory/Dorian pits.md",
+    "Country's/Dorian Territory/Calion/Silver Spire.md",
+    "Country's/Dorian Territory/Calion/Rock and Shaft.md",
     "Country's/Dorian Territory/Calion/Glens Goods.md",
     "Country's/Independant/Long Blow Monastery.md",
     "Jobs/Trades/Miner.md",
@@ -254,9 +257,6 @@
     "Item's/Consumable/Consumable.md",
     "Character/Independent-NPC/Abet.md",
     "Item's",
-    "Character/Dorian-NPC/Boris Rock.md",
-    "Character/Dorian-NPC/Dorian King.md",
-    "Character/Dorian-NPC/Harold Shaft.md",
     "Jobs/Religion",
     "Item's/Consumable/Drinks",
     "Item's/Consumable",

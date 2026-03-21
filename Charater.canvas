@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"87bf1a158a4622b7","x":-340,"y":-560,"width":400,"height":400,"type":"file","file":"Character/Character.md"},
+		{"id":"ecc9bc02107d39f2","x":-160,"y":1220,"width":400,"height":400,"type":"file","file":"Character/Independent-NPC/Abet.md"},
+		{"id":"8f9e8ca00e3c741f","x":-340,"y":280,"width":400,"height":400,"type":"file","file":"Character/Independent-NPC/Independent-NPC.md"},
+		{"id":"99bc71e720a3d974","x":-1760,"y":200,"width":400,"height":400,"type":"file","file":"Character/Dorian-NPC/Dorian-NPC.md"},
+		{"id":"d23651bc01b05cbb","x":1480,"y":280,"width":400,"height":400,"type":"file","file":"Character/Rever-NPC/Rever-NPC.md"},
+		{"id":"e167c245b1039ffb","x":-3360,"y":280,"width":400,"height":400,"type":"file","file":"Character/Dorian-NPC/Glen LongSlong.md"},
+		{"id":"9c70d076f7a830fd","x":-3080,"y":1020,"width":400,"height":400,"type":"file","file":"Character/Dorian-NPC/Boris Rock.md"},
+		{"id":"1ba4d96aa0964dcb","x":-2400,"y":1560,"width":400,"height":400,"type":"file","file":"Character/Dorian-NPC/Dorian King.md"},
+		{"id":"fddc19779cdec1e3","x":-1640,"y":1620,"width":400,"height":400,"type":"file","file":"Character/Dorian-NPC/Larry Lonny.md"},
+		{"id":"33a51d3cd4e849ae","x":-3080,"y":-580,"width":400,"height":400,"type":"file","file":"Character/Dorian-NPC/Harold Shaft.md"},
+		{"id":"8ee527838c33948a","x":1560,"y":1360,"width":400,"height":400,"type":"file","file":"Character/Rever-NPC/Rever King.md"}
+	],
+	"edges":[
+		{"id":"46d64bfc4c97b68c","fromNode":"87bf1a158a4622b7","fromSide":"bottom","toNode":"99bc71e720a3d974","toSide":"top"},
+		{"id":"c503cc9b0e75f751","fromNode":"87bf1a158a4622b7","fromSide":"bottom","toNode":"8f9e8ca00e3c741f","toSide":"top"},
+		{"id":"76e910c1497a6f24","fromNode":"8f9e8ca00e3c741f","fromSide":"bottom","toNode":"ecc9bc02107d39f2","toSide":"top"},
+		{"id":"f922d8e0a3afe762","fromNode":"99bc71e720a3d974","fromSide":"bottom","toNode":"33a51d3cd4e849ae","toSide":"top"},
+		{"id":"a2912a0a290cc940","fromNode":"99bc71e720a3d974","fromSide":"bottom","toNode":"e167c245b1039ffb","toSide":"top"},
+		{"id":"c0ed6095a1c1c8e4","fromNode":"99bc71e720a3d974","fromSide":"left","toNode":"9c70d076f7a830fd","toSide":"right"},
+		{"id":"971caeef2100ca18","fromNode":"99bc71e720a3d974","fromSide":"bottom","toNode":"1ba4d96aa0964dcb","toSide":"top"},
+		{"id":"75fca2beeb9d7913","fromNode":"fddc19779cdec1e3","fromSide":"top","toNode":"99bc71e720a3d974","toSide":"bottom"},
+		{"id":"b0bd5fa613f5f09a","fromNode":"87bf1a158a4622b7","fromSide":"bottom","toNode":"d23651bc01b05cbb","toSide":"top"},
+		{"id":"20d9409bdea25d92","fromNode":"d23651bc01b05cbb","fromSide":"bottom","toNode":"8ee527838c33948a","toSide":"top"}
+	]
+}

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dedf83b10b44f448",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "4565adcb6afd9e0a",
             "type": "leaf",
             "state": {
@@ -55,34 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Country's/Dorian Territory/Calion/Calion.md",
+                "file": "Jobs/Government/King.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Calion"
-            }
-          },
-          {
-            "id": "669cb2485303a64f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Charater.canvas",
-                "viewState": {
-                  "x": 152,
-                  "y": 890.03125,
-                  "zoom": -2
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Charater"
+              "title": "King"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs/Trades/Miner.md",
+                "file": "Jobs/Government/King.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Miner"
+              "title": "Backlinks for King"
             }
           },
           {
@@ -174,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jobs/Trades/Miner.md",
+                "file": "Jobs/Government/King.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Miner"
+              "title": "Outgoing links from King"
             }
           },
           {
@@ -217,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs/Trades/Miner.md",
+                "file": "Jobs/Government/King.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Miner"
+              "title": "Outline of King"
             }
           },
           {
@@ -242,7 +213,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Jobs/Trades/Miner.md"
+                "file": "Jobs/Government/King.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -258,8 +229,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,19 +254,28 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "669cb2485303a64f",
+  "active": "af348aa2ba71fa6c",
   "lastOpenFiles": [
-    "Item's/Equipment/Weapons/Iron/Iron Mace.md",
+    "Jobs/Government/Count.md",
+    "Character/Dorian-NPC/Boris Rock.md",
+    "Character/Independent-NPC/Abet.md",
+    "Country's/Dorian Territory/Calion/Rock and Shaft.md",
+    "MyWorld.base",
+    "Governments/Governments.md",
     "Charater.canvas",
+    "Character/Rever-NPC/Rever King.md",
+    "Character/Dorian-NPC/Larry Lonny.md",
+    "Character/Dorian-NPC/Harold Shaft.md",
+    "Character/Dorian-NPC/Glen LongSlong.md",
+    "Character/Dorian-NPC/Dorian King.md",
+    "Country's/Dorian Territory/Calion/Calion.md",
+    "Item's/Equipment/Weapons/Iron/Iron Mace.md",
     "Item's/Equipment/Weapons/Iron/Iron.md",
     "Item's/Equipment/Armor/Iron/Iron Gauntlets.md",
     "Item's/Equipment/Armor/Iron/Iron Helmet.md",
     "Resources/Minerals/Iron.md",
-    "Character/Dorian-NPC/Dorian King.md",
     "Character/Character.md",
-    "Country's/Dorian Territory/Calion/Calion.md",
     "Item's/Equipment/Weapons/Weapons.md",
-    "MyWorld.base",
     "Item's/Equipment/Weapons/Iron/Iron Sword.md",
     "Item's/Equipment/Equipment.md",
     "Item's/Equipment/Weapons/Iron",
@@ -308,17 +287,9 @@
     "Classes/Character/Wizard.md",
     "Classes/Classes.md",
     "Classes/Character",
-    "Item's/Equipment/Armor/Iron/Iron.md",
-    "Item's/Equipment/Armor/Iron/Iron Boots.md",
-    "Item's/Equipment/Armor/Iron/Iron Chest plate.md",
-    "Item's/Equipment/Armor/Armor.md",
     "Item's/Equipment/Armor/Iron",
-    "Item's/Equipment/Armor/Untitled.md",
     "Item's/Equipment/Armor",
-    "Item's/Item's.md",
     "Item's/Equipment",
-    "Character/Dorian-NPC/Glen LongSlong.md",
-    "Character/Dorian-NPC/Boris Rock.md",
     "Classes/Social",
     "Classes",
     "Spells/Restoration"

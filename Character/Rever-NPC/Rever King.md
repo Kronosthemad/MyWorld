@@ -6,3 +6,4 @@ Job: "[[King]]"
 Government: "[[The Rever Royal Court]]"
 Gender: Male
 ---
+#person 

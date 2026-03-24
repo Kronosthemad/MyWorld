@@ -6,3 +6,5 @@ Gender: Male
 ---
 
 the [[Blacksmith]] of [[Rock and Shaft]] in the town of [[Calion]]
+
+#person
